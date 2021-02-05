@@ -1,0 +1,70 @@
+
+Você vai precisar de:
+
+2 celulares para escanear o código
+
+e o aplicativo termux
+
+
+BY NABUTO LS
+
+WHATSAPP: 69993733829
+
+
+COMANDOS (EXECUTE UM POR UM NO TERMUX):
+
+CASO FOR SOLTAR NO SEU CANAL DEIXE O LINK DO MEU CANAL NA DESCRIÇÃO, CASO VC ESQUECE EU LHE LEMBRAREI NOS COMENTÁRIOS, TMJ😎🤝
+
+
+ termux-setup-storage
+ (depois disso toque na permissão)
+ 
+
+ pkg install git
+ 
+
+ pkg install ffmpeg
+
+
+ pkg install wget
+
+
+ pkg install nodejs
+
+
+ pkg install npm
+
+
+ https://github.com/WIZARDCDC/nine/tree/WIZARDCDC-patch-1
+
+ ls
+
+
+ cd nine
+
+ 
+ ls
+
+
+ bash install.sh
+
+ npm start
+
+
+
+
+usem estes comandos caso se bot fique caindo:
+
+ pkg install pm2
+
+ npm i -g pm2 
+
+ pm2 start index.js
+
+ pm2 monit
+
+
+
+meu canal:
+
+https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
