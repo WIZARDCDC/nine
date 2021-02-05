@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nabuto0/nine"
+    "url": "https://github.com/WIZARDCDC/nine/tree/patch-4"
   },
   "bugs": {
-    "url": "https://github.com/nabuto0/nine.git"
+    "url": "https://github.com/WIZARDCDC/nine/tree/patch-4"
   },
-  "homepage": "https://github.com/nabuto0/nineNetuh/nineBot#readme"
+  "homepage": "https://github.com/WIZARDCDC/nine/tree/patch-4#readme"
 }
